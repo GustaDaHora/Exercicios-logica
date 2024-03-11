@@ -1,0 +1,69 @@
+1- construa um algoritimo e um programa para calcular o perimetro de um retangulo ou quadrado
+Algoritimo para calcular o perimetro de um retangulo ou quadrado:
+Inicio
+    Escrever "Digite o comprimento do retângulo ou lado do quadrado:"
+    Ler comprimento do usuário
+    Escrever "Digite a largura do retângulo (ou pressione Enter para usar o mesmo valor do comprimento):"
+    Ler largura do usuário
+	
+    var perimetro
+    Se largura do usuário for vazia então
+        perimetro = comprimento * 4
+        Escrever "O perímetro do quadrado é: ", perimetro
+    Senão
+        perimetro = 2 * (comprimento + largura)
+        Escrever "O perímetro do retângulo é: ", perimetro
+    Terminar
+Fim
+
+2- construa um algoritimo e um programa para calcular o juros simples de uma aplicação financeira
+Algoritimo para calcular o juro simples de uma aplicação financeira
+Inicio
+    Escrever "Digite o valor da aplicação inicial:"
+    Ler aplicacaoInicial do usuário
+    Escrever "Digite o período em anos:"
+    Ler anos do usuário
+    Escrever "Digite a taxa de juros por período anual (%):"
+    Ler taxaJuros do usuário
+    
+    var juros
+    var taxaDecimal = taxaJuros / 100
+    juros = aplicacaoInicial * anos * taxaDecimal
+    
+    Escrever "O juro simples é: ", juros
+Fim
+
+3- construa um algoritimo e um programa para conventer a temperatura de celcius para fahrenheit e vice versa
+Algoritimo e um programa para conventer a temperatura de celcius para fahrenheit e vice versa
+Inicio
+    Escrever "Escolha uma opção:"
+    Escrever "1. Converter de Celsius para Fahrenheit"
+    Escrever "2. Converter de Fahrenheit para Celsius"
+    Ler opcao do usuário
+
+    Se opcao == 1 então
+        Escrever "Digite a temperatura em Celsius:"
+        Ler temperaturaCelsius do usuário
+        temperaturaFahrenheit = (9 / 5) * temperaturaCelsius + 32
+        Escrever "A temperatura em Fahrenheit é: ", temperaturaFahrenheit
+    Senão se opcao == 2 então
+        Escrever "Digite a temperatura em Fahrenheit:"
+        Ler temperaturaFahrenheit do usuário
+        temperaturaCelsius = (5 / 9) * (temperaturaFahrenheit - 32)
+        Escrever "A temperatura em Celsius é: ", temperaturaCelsius
+    Senão
+        Escrever "Opção inválida."
+    Fim se
+Fim
+
+4- construa um algoritimo e um programa para informar quantas vezes um valor pode aumentar ou diminuir, quando aplicado um percentual de correção
+Algoritimo para informar quantas vezes um valor pode aumentar ou diminuir, quando aplicado um percentual de correção
+
+5- Contrua um algoritimo para calcular a velocidade média de um corpo e um algoritimo para calcular descolamento real
+
+
+<=2640 0%
+>=2640,01 até 4230 7,5%
+>=4230,01 até 6000 15%
+>=6000,1 até 8700 25%
+>=8700,01 27%
