@@ -61,7 +61,7 @@ Algoritimo para informar quantas vezes um valor pode aumentar ou diminuir, quand
 
 5- Contrua um algoritimo para calcular a velocidade média de um corpo e um algoritimo para calcular descolamento real
 
-
+6- calcular quanto um pagador de impostos deve contruibuir:
 <=2640 0%
 >=2640,01 até 4230 7,5%
 >=4230,01 até 6000 15%
