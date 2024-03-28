@@ -71,3 +71,15 @@ Algoritimo para informar quantas vezes um valor pode aumentar ou diminuir, quand
 7 numeros impares
 8 
 9 tabuada
+
+10- faça um algoritimo em portugol para 
+a) Permitir o cálculo da área de um trapézio;
+b) Permitir o cálculo da área de um losangolo;
+c) Permitir o cálculo da área de um retângulo;
+d) Apresentar a área das figuras geométricas planas calculadas e qual das três figuras geométricas planas tem a maior área
+
+11- calcular as raízes da equação do segundo grau
+
+12- Algoritmo que totalize os primeiros 10 valores positivos superiores a 200 de uma quantidade indefinida de valores, ao final da entrada dos dados apresente a média dos 10 valores, a soma dos valores e o maior e menor valor aceito polo algoritmo
+
+13- algoritmo para gerar qualquer progressão aritmética
