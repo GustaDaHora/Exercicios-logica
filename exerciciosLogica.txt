@@ -83,3 +83,21 @@ d) Apresentar a área das figuras geométricas planas calculadas e qual das trê
 12- Algoritmo que totalize os primeiros 10 valores positivos superiores a 200 de uma quantidade indefinida de valores, ao final da entrada dos dados apresente a média dos 10 valores, a soma dos valores e o maior e menor valor aceito polo algoritmo
 
 13- algoritmo para gerar qualquer progressão aritmética
+
+14- construa um algoritimo para somar separadamente uma quantidade indefinida de valores pares, valores impares, valores positivos e valores negativos, o algoritimo se encerra com o elemento neutro da adição
+
+15- jokempo
+
+16-Indice de massa corporea (IMC), nos permite classificar individuos em certas faixas:
+- abaixo de 18,5: Abaixo do peso
+- entre 18,5 e 25: Peso ideal
+- entre 25 e 30: Sobrepeso
+- entre 30 e 40: Obesidade
+- acima de 40: Obesidade morbidas
+
+17- Faça um programa usando a estrutura “faça enquanto” que leia a idade de várias pessoas.
+A cada laço, você deverá perguntar para o usuário se ele quer ou não continuar a digitar
+dados. No final, quando o usuário decidir parar, mostre na tela:
+a) Quantas idades foram digitadas
+b) Qual é a média entre as idades digitadas
+c) Quantas pessoas tem 21 anos ou mais.
