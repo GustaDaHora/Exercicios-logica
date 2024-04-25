@@ -5,8 +5,8 @@ local soma = 0
 local somaMaisDe21 = 0
 
 while true do
-    io.write("Digite a idade: ")
-    local Escolha = io.read()
+io.write("Digite a idade: ")
+local Escolha = io.read()
     Escolha = tonumber(Escolha)
     if Escolha then
         table.insert(Numbers, Escolha)
