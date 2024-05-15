@@ -1,26 +1,26 @@
 print("Digite o numero da carta (de 1 a 52): ")
-numero_carta = tonumber(io.read())
+Numero_carta = tonumber(io.read())
 
-if numero_carta >= 1 and numero_carta <= 13 then
-    naipe = "paus"
-elseif numero_carta >= 14 and numero_carta <= 26 then
-    naipe = "copas"
-elseif numero_carta >= 27 and numero_carta <= 39 then
-    naipe = "espadas"
-elseif numero_carta >= 40 and numero_carta <= 52 then
-    naipe = "ouro"
+if Numero_carta >= 1 and Numero_carta <= 13 then
+    Naipe = "paus"
+elseif Numero_carta >= 14 and Numero_carta <= 26 then
+    Naipe = "copas"
+elseif Numero_carta >= 27 and Numero_carta <= 39 then
+    Naipe = "espadas"
+elseif Numero_carta >= 40 and Numero_carta <= 52 then
+    Naipe = "ouro"
 end
 
-if numero_carta % 13 == 0 then
-    valor = "Rei"
-elseif numero_carta % 13 == 1 then
-    valor = "Ás"
-elseif numero_carta % 13 == 11 then
-    valor = "Dama"
-elseif numero_carta % 13 == 12 then
-    valor = "Valete"
+if Numero_carta % 13 == 0 then
+    Valor = "Rei"
+elseif Numero_carta % 13 == 1 then
+    Valor = "Ás"
+elseif Numero_carta % 13 == 11 then
+    Valor = "Dama"
+elseif Numero_carta % 13 == 12 then
+    Valor = "Valete"
 else
-    valor = numero_carta % 13
+    Valor = Numero_carta % 13
 end
 
-print("A carta e", valor, "de", naipe, ".")
+print("A carta e", Valor, "de", Naipe, ".")

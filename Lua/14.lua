@@ -2,7 +2,7 @@ local positivo = 0
 local negativo = 0
 local par = 0
 local impar = 0
-local Escolha = 1 -- Inicializa Escolha com um valor diferente de zero
+Escolha = 1
 
 while Escolha ~= 0 do
     io.write("Adicione um numero ou 0 para finalizar: ")
@@ -14,7 +14,7 @@ while Escolha ~= 0 do
         negativo = negativo + Escolha
     end
 
-    if Escolha ~= 0 then -- Verifica se a escolha não é zero
+    if Escolha ~= 0 then
         if Escolha % 2 == 0 then
             par = par + Escolha
         else
