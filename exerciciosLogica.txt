@@ -58,3 +58,5 @@ c) Quantas pessoas tem 21 anos ou mais.
 21 construir um algoritimo que classifique tres produtos pela sua cor e armazene em um vetor de 20 posições. Ao final é pretendido saber a quantidade de cada cor contido no vetor. Ler o vertor para determinar a quantidade de produtos de cada cor.
 
 22 construir um programa que armazene nas posições pares de um vetor apenas valores impares e nas posições impares apenas valores pares
+
+25 contruir um algoritimo que ache o caminho mais curto entre dois pontos de um grafo
