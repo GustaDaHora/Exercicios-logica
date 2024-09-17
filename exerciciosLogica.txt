@@ -60,3 +60,9 @@ c) Quantas pessoas tem 21 anos ou mais.
 22 construir um programa que armazene nas posições pares de um vetor apenas valores impares e nas posições impares apenas valores pares
 
 25 contruir um algoritimo que ache o caminho mais curto entre dois pontos de um grafo
+
+26. Construa uma função para calcular as raízes de equações do segundo grau, a resposta da função deve ser em número complexo
+
+27 Construa uma função, que receba como entrada um número inteiro e retorne como resposta o número do mês equivalente
+
+28. contruir uma função que receba uma frase e retorne a quantidade de vogais maiusculas e vogais minusculas
