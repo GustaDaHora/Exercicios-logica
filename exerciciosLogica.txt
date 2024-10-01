@@ -66,3 +66,9 @@ c) Quantas pessoas tem 21 anos ou mais.
 27 Construa uma função, que receba como entrada um número inteiro e retorne como resposta o número do mês equivalente
 
 28. contruir uma função que receba uma frase e retorne a quantidade de vogais maiusculas e vogais minusculas
+
+29. Faça uma função que receba por parâmetro o raio de uma esfera e calcula o seu
+volume (v = 4*pi*r³/3).
+
+30. Faça uma função que receba por parâmetro um valor inteiro e positivo e retorne o
+valor lógico Verdadeiro caso o valor seja primo e Falso em caso contrário.
