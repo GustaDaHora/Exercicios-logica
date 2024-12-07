@@ -72,3 +72,18 @@ volume (v = 4*pi*r³/3).
 
 30. Faça uma função que receba por parâmetro um valor inteiro e positivo e retorne o
 valor lógico Verdadeiro caso o valor seja primo e Falso em caso contrário.
+
+
+typedef struct {
+    char ch;
+    int v;
+    float p;
+} taaa;
+
+
+31. contrua funções baseada na estruc acima
+-> compare dois elemento para sar se são iguais
+->ordenar lista crescente e decresente
+-> operação com valores numéricos
+
+32 - construa um função para nalisar valores numericos em quantidade indertemidada a função deve retornar como resposta se os valores são positivos ou negativos pares ou imapres inteiros ou reais se são primos e se pertencem a sequencia de fibonaci
